@@ -1,6 +1,6 @@
 <div align="center">
-# Olá, eu sou o Leonardo 👋
-### Desenvolvedor .NET Sênior
+  <h1>Olá, eu sou o Leonardo 👋</h1>
+  <h3>Desenvolvedor .NET Sênior</h3>
 
  **[🇧🇷 Português](#-sobre-mim) · [🇺🇸 English](#-about-me)**
  
